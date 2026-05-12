@@ -86,4 +86,8 @@
 
 ```bash
 /lp group default permission set rtp.use true
+<<<<<<< HEAD
 >>>>>>> 8336f58899f27b16ce5e105fc00be12c6c3bd57a
+=======
+>>>>>>> 8336f58 (Update README.md)
+>>>>>>> 962cd42 (Update README before rebase)
