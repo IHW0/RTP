@@ -1,0 +1,11 @@
+main: com.example.plugin.RTP
+version: 1.0
+name: RTP
+author: IHW0
+api-version: 1.21
+commands:
+  rtp:
+    description: Teleports you to a random location.
+    usage: /rtp
+    permission: rtp.use
+    aliases: [randomtp]
