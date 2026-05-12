@@ -1,0 +1,6 @@
+prefix: "&8[&bRTP&8] "
+no-permission: "&cУ вас нет прав!"
+player-only: "&cКоманда только для игроков!"
+cooldown: "&cПодождите %time% сек."
+reload-success: "&aКонфигурация успешно перезагружена!"
+success: "&aВы телепортированы на координаты: &f%coords%"

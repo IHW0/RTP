@@ -1,4 +1,4 @@
-package com.example.plugin.managers;
+
 
 public class PluginManager {
     private static PluginManager instance;
@@ -11,6 +11,6 @@ public class PluginManager {
     }
     
     public void initialize() {
-        // Initialize your managers here
+
     }
 }

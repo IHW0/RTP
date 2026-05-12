@@ -5,7 +5,12 @@ author: IHW0
 api-version: 1.21
 commands:
   rtp:
-    description: Teleports you to a random location.
-    usage: /rtp
-    permission: rtp.use
+    description: Основная команда RTP
     aliases: [randomtp]
+permissions:
+  rtp.use:
+    description: Право на использование /rtp
+    default: true
+  rtp.admin:
+    description: Право на перезагрузку конфига /rtp reload
+    default: op

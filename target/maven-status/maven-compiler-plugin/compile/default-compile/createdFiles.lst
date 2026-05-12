@@ -1,5 +1,5 @@
 com\example\plugin\commands\RtpCommand.class
-com\example\plugin\RTP.class
-com\example\plugin\managers\PluginManager.class
 com\example\plugin\listeners\PlayerListener.class
 com\example\plugin\utils\Utils.class
+PluginManager.class
+com\example\plugin\RTP.class

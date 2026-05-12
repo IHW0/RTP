@@ -1,0 +1,4 @@
+# Настройки телепортации
+rtp-settings:
+  radius: 1000
+  cooldown: 60
